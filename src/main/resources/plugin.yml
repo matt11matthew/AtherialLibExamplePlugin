@@ -1,0 +1,4 @@
+name: AtherialLibExamplePlugin
+version: '${project.version}'
+main: me.matthewe.atheriallibexampleplugin.AtherialLibExamplePlugin
+api-version: '1.20'
